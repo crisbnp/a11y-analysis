@@ -51,7 +51,7 @@ By inspecting the elements using Chrome Dev Tools and using VoiceOver screen rea
 Reports are as followed:
 
 1. [Lighthouse Report - Desktop View](./kemlu-desktop-lighthouse-report.pdf)
-2. [Lighthouse Report - Mobile View](./kemlu-mobile-lighthouse-report.pdf)
+2. [Lighthouse Report - Mobile View](./kemlu-mobile-lighthouse.pdf)
 3. [Wave Report](https://wave.webaim.org/report#/https://kemlu.go.id/london/en#!)
 
 ## Detailed plans on how to improve the website based on Lighthouse Report for Desktop
